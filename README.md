@@ -1,2 +1,3 @@
-# Android_Chess_Engine_Testing
-Tournament results, speed tests, testing scripts, ... of engines available in my repos. 
+# Android Chess Engine Testing
+Tournament results, speed tests, testing scripts, ... of some strong Android engines available in my repos. 
+At the moment tournaments with armv8 builds of SFnps230227, SFSnps230227, and CFishNN_230302 are on the way. Let's see...
