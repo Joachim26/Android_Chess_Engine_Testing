@@ -1,7 +1,7 @@
 #!/bin/bash
 if [[ $# -ne 5 ]]; then
     echo "usage:" $0 "base test n_runs"
-	echo "example:" $0 "./stockfish_base ./stockfish_test 5 11 pure"
+	echo "example:" $0 "./cfish_base ./cfish_test 5 11 pure"
     exit 1
 fi
 
