@@ -1,5 +1,5 @@
 # Android Chess Engines Testing
-Tournament results, speed tests, testing scripts, ... of some strong Android engines available in my repos. 
+Tournament results, speed tests, testing scripts, ... of some very strong Android engines available in my repos. 
 At the moment, tournaments with armv8 builds of SFnps230227, SFSnps230227, and CFishNN_230302 are on the way. 
 Reasonable tests with my old hardware needs time. Thus no final results before 23/03/10.
 However, results of the several 100 game matches, made each day, are updated as soon as available [here](https://github.com/Joachim26/Android_Chess_Engines_Testing/blob/main/DailyUpdatedTestResults.txt) and also below:
