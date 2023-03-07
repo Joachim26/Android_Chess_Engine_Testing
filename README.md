@@ -54,3 +54,16 @@ CFvsSF:
 
 
 SFSvsSF:
+
+
+________________________________________
+For comparison reasons a small number of tests 
+on a more modern hardware with Snapdragon 662, 
+about 3 to 3.5 times faster than the FireHD8.
+
+TC=schnell, 100 games
+
+CFvsSFS:
+50.5:49.5
+
+
