@@ -2,7 +2,7 @@
 Tournament results, speed tests, testing scripts, ... of some very strong Android engines available in my repos. 
 At the moment, tournaments with armv8 builds of SFnps230227, SFSnps230227, and CFishNN_230302 are on the way. 
 Reasonable tests with my old hardware needs time. Test equipment: 
-Amazon FireHD8 (7th gen.), CfA v6.2.1,  Parallel Space App, two instanced of CfA, CPU load < 55% 4th core often stopped.
+Amazon FireHD8 (7th gen.), CfA v6.2.1,  Parallel Space App, two instanced of CfA, CPU load < 65% 4th core often stopped.
 Thus no final results before 23/03/10.
 However, results of the several 100 game matches, made each day, are updated as soon as available [here](https://github.com/Joachim26/Android_Chess_Engines_Testing/blob/main/DailyUpdatedTestResults.txt) and also below:
 
