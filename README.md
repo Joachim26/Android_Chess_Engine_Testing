@@ -6,6 +6,7 @@ Amazon FireHD8 (7th gen.), CfA v6.2.1,  Parallel Space App, two instances of CfA
 At the moment, I'm just collecting data, thus no final results are presented.
 However, results of the several 100 game matches, made each day, are updated as soon as available [here](https://github.com/Joachim26/Android_Chess_Engines_Testing/blob/main/DailyUpdatedTestResults.txt) and also below:
 
+
 ________________________________________
 TC=schnell, 100 games
 
@@ -35,15 +36,20 @@ CFvsSFS:
 51.0:49.0
 52.5:47.5
 
+
 CFvsSF:
 53.0:47.0
 52.5:47.5
 51.5:48.5
+48.0:52.0
+
 
 SFSvsSF:
 50.5:49.5
 54.0:46.0
 47.0:53.0
+49.5:50.5
+
 
 ________________________________________
 TC=30+1s, 100 games
@@ -58,12 +64,20 @@ SFSvsSF:
 
 
 ________________________________________
-For comparison reasons a small number of tests 
+For comparison reasons, a small number of tests 
 on a more modern hardware with Snapdragon 662, 
-about 3 to 3.5 times faster than the FireHD8.
+about 3 to 3.5 times faster than the FireHD8, 
+will be performed.
 
 TC=schnell, 100 games
 
 CFvsSFS:
 50.5:49.5
+
+
+________________________________________
+TC=10+1s, 100 games
+
+CFvsSFS:
+52.5vs47.5
 
