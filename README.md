@@ -63,6 +63,7 @@ CFvsSFS:
 49.0:51.0
 51.5:48.5
 48.0:52.0
+45.0:55.0
 
 
 CFvsSF:
@@ -74,7 +75,7 @@ CFvsSF:
 SFSvsSF:
 51.5:48.5
 46.5:53.5
-
+48.5:51.5
 
 ________________________________________
 For comparison reasons, a small number of tests 
