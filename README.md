@@ -64,6 +64,7 @@ CFvsSFS:
 51.5:48.5
 48.0:52.0
 45.0:55.0
+49.5:50.5
 
 
 CFvsSF:
@@ -71,7 +72,8 @@ CFvsSF:
 51.0:49.0
 53.5:46.5
 47.5:52.5
-
+56.5:43.5
+Systematic errors?
 
 SFSvsSF:
 51.5:48.5
@@ -96,6 +98,5 @@ TC=10+1s, 100 games
 
 CFvsSFS:
 52.5vs47.5
-
 
 Does CFishNN get weaker for longer TCs and larger depth? 
