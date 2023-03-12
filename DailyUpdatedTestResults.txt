@@ -64,7 +64,7 @@ CFvsSF:
 53.5:46.5
 47.5:52.5
 56.5:43.5
-Systematic error?
+Systematic errors?
 
 SFSvsSF:
 51.5:48.5
