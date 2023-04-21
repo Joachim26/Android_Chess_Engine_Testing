@@ -65,7 +65,7 @@ CFvsSFS:
 48.0:52.0
 45.0:55.0
 49.5:50.5
-
+= 243.0:257.0 = -10 Elo
 
 CFvsSF:
 48.0:52.0
@@ -73,7 +73,7 @@ CFvsSF:
 53.5:46.5
 47.5:52.5
 56.5:43.5
-
+= 256.5:243.5 = +9 Elo
 
 SFSvsSF:
 51.5:48.5
@@ -81,7 +81,7 @@ SFSvsSF:
 48.5:51.5
 49.0:51.0
 50.0:50.0
-
+= 245.5:254.5 = -6 Elo
 ________________________________________
 For comparison reasons, a small number of tests 
 on a more modern hardware with Snapdragon 662, 
@@ -93,9 +93,9 @@ TC=schnell, 100 games
 CFvsSFS:
 50.5:49.5
 
+
 ________________________________________
 TC=10+1s, 100 games
 
 CFvsSFS:
-52.5:47.5
-
+52.5vs47.5
